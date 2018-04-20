@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<title> This is My Website </title>
+<body>
+<h1> All About Me</h1>
+<p>
+My name is Lim Wen-Cy Clarice. I am a student of Dunman High School. I am currently in my first year in Dunman High School. </p>
+<p>
+Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>. </p>
+<br>
+<p>Here are some of the things I love to do the most : </p> 
+<ul>
+<li>Playing the Piano</li>
+<a href="url">link text</a>
+<li>Reading Ebooks</li>
+<a href="url">http://eresources.nlb.gov.sg/ereads</a>
+<li></li>
+<a href="url">link text</a>
+</ul>
+</body>
+</html>

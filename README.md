@@ -11,9 +11,9 @@ Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>
 <p>Here are some of the things I love to do the most : </p> 
 <ul>
 <li>Playing the Piano</li>
-<a href="url">link text</a>
+<a href="https://www.youtube.com/watch?v=kezb-NP7TAs">Adriana, A Grade 8 Piece I am Currently Learning</a>
 <li>Reading Ebooks</li>
-<a href="url">http://eresources.nlb.gov.sg/ereads</a>
+<a href="http://eresources.nlb.gov.sg/ereads">Where I Get My Ebooks From</a>
 <li></li>
 <a href="url">link text</a>
 </ul>

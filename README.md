@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-<title> This is My Website </title>
 <body>
 <h1> All About Me</h1>
 <p>
